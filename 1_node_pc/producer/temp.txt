@@ -1,0 +1,4 @@
+Reading and Writing from a file 
+...
+current status:0
+entry count:5/62

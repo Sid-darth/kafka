@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "avsc": "^5.7.3",
+    "fs": "0.0.1-security",
     "node-rdkafka": "^2.11.0",
     "save": "^2.4.0"
   },
